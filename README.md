@@ -6,6 +6,7 @@ testing grailsWebDataBinder issue with XML deep list associations
 The relevant parts of the repository (e.g. changed from the standard grails projects) are:
 
 domain/testBinder/* 
+
 controller/testapp/TestBinderController
 
 The controller is used only to show what is happening.
